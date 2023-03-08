@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://twitter.com/safoprince6" target="blank"><img src="https://img.shields.io/twitter/follow/safoprince6?logo=twitter&style=for-the-badge" alt="safoprince6" /></a> </p>
 
 
-- 🔭 I’m currently working on **Green live**
+- 🔭 I’m currently working on **Green live web application**
 
 - 💬 Ask me about **react,nodejs and tensorflow**
 
