@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SAFO MARFO PRINCE</h1>
+<h1 align="center">Hi 👋, I'm SAFO PRINCE</h1>
 <h3 align="center">A passionate full stack developer and Artificial Intelligence enthusiast from Ghana</h3>
 
 
