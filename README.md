@@ -1,5 +1,6 @@
 <h4 align="left">Hello, World! 🌍<br>Welcome to my GitHub profile. Take a look around and explore my projects</h4>
 
+
 ###
 
 <div align="center">
@@ -8,6 +9,18 @@
 
 ###
 
+
+
+
+I'm a Full Stack Developer and Machine Learning enthusiast. Here's a glimpse of what you'll find in my repositories:
+
+- Full Stack Web Development with React, Next.js, and more.
+- Machine Learning projects using TensorFlow and Python.
+- A passion for coding, creativity, and problem-solving.
+
+
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=safo-prince&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safo-prince&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -15,6 +28,8 @@
 </div>
 
 ###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
